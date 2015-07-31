@@ -1,0 +1,28 @@
+{
+  "name": "add-component-name-here",
+  "version": "1.0.0",
+  "description": "A description of your component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/your-github-handle/repo-git-url-here.git"
+  },
+  "keywords": [
+    "keyword 1",
+    "keyword 2",
+    "keyword 3"
+  ],
+  "author": "Your name",
+  "license": "Your license type (MIT, etc.)",
+  "bugs": {
+    "url": "https://github.com/your-github-handle/repo-git-url-here/issues"
+  },
+  "homepage": "https://github.com/your-github-handle/repo-git-url-here#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0"
+  }
+}
